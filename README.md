@@ -2,7 +2,7 @@
 ## AI Researcher | Deep Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shady-nagy-77635213a/)
-[![Google Scholar](https://scholar.google.com/citations?user=mH7CmFYAAAAJ&hl=en&authuser=1)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=mH7CmFYAAAAJ&hl=en&authuser=1)
 
 ---
 
